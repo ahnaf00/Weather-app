@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    margin-top: 100px;
+}
+.container .w-form{
+    width:600px;
+}
+.container .cardBody
+{
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 600;
+    font-family: monospace;
+}
+div#w-city {
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+img#w-icon {
+    height: 100px;
+}
