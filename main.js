@@ -182,6 +182,3 @@ const UI = {
 }
 UI.init()
 
-
-
-// name :, 
